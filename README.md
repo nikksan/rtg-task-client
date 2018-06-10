@@ -1,3 +1,10 @@
+# RTG Task: Client App
+
+## Getting Started
+
+In order to build the app with a configured api endpoint, you shoud create your own .env.[environment] file
+You can see the sample file provided in the root.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
